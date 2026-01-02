@@ -173,7 +173,21 @@
       incurred by, or claims asserted against, such Contributor by reason
       of your accepting any such warranty or additional liability.
 
-   END OF TERMS AND CONDITIONS
+END OF TERMS AND CONDITIONS
+
+ADDITIONAL TERMS
+----------------
+If any individual or entity ("the Challenger") initiates or participates in legal action against the Licensor or Contributors regarding the Work — excluding actions required to comply with applicable law — all rights granted to the Challenger under this License shall automatically terminate as of the date such action is filed.
+
+Reinstatement of rights may only occur with:
+
+- explicit written permission from the original copyright holder, or
+- explicit written permission from a majority of Contributors, or
+- if applicable, explicit written permission from the organization holding the primary copyright to the Work.
+
+This clause is in addition to, and does not limit, the termination provisions already present in Section 3 of the Apache License, Version 2.0.
+
+END OF ADDITIONAL TERMS
 
    APPENDIX: How to apply the Apache License to your work.
 
