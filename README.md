@@ -1,3 +1,8 @@
+# How to install
+
+No extra packages, installers, or pip dependencies.
+Just download, run with Python, and press the install button when prompted.
+
 # SessionLog
 
 SessionLog is a productivity tool that logs when you start working.
